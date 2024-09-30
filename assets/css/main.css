@@ -2061,7 +2061,7 @@ p {
     font-weight: 400 !important;
   }
   .hero {
-    background-image: url('/assets/mobileTitle.jpg');
+    background-image: url('./mobileTitle.jpg');
     background-size: contain;
     background-position: top;
   }
@@ -2140,7 +2140,7 @@ p {
     margin-left: 2vw;
   }
   .imagen {
-    background-image: url('/assets/ColapintoMobile.jpg');
+    background-image: url('./ColapintoMobile.jpg');
     background-size: contain;
   }
   #imagenn.section {
