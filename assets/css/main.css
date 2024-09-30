@@ -797,7 +797,7 @@ section,
   display: flex;
   align-items: center;
   /* background: #020202; */
-  background-image: url('/assets/1title.png');
+  background-image: url('./1title.png');
   background-size: cover; /* Ajusta la imagen al tamaño del contenedor */
   background-position: center; /* Centra la imagen */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
@@ -880,7 +880,7 @@ section,
 .imagen {
   width: 100vw;
   height: 100vh;
-  background-image: url('/assets/colapinto.jpg');
+  background-image: url('./colapinto.jpg');
   background-size: cover; /* Ajusta la imagen al tamaño del contenedor */
   background-position: center; /* Centra la imagen */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
